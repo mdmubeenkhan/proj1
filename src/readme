@@ -1,0 +1,17 @@
+
+This is a test application with following routes
+
+1. /  - it serves the static index.html page
+2. /hello  - it displays static message
+3. /form.html - it shows the form and post submission displays the data entered
+
+
+http://localhost:8080/
+http://localhost:8080/form.html
+http://localhost:8080/hello
+
+
+
+
+
+
